@@ -47,4 +47,6 @@ dependencies {
     compile 'com.squareup.picasso:picasso:2.3.4'
     // Floating action button
     compile 'com.melnykov:floatingactionbutton:1.0.+'
+    // Shape Image View
+    compile 'com.github.siyamed:android-shape-imageview:0.9.+@aar'
 }
